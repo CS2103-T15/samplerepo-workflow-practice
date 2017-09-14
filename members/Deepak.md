@@ -2,7 +2,7 @@
 Team A1, T15
 
 ## Education
-NUS
+NUS : Computer Engineering
 
 ## Work Experience
 
