@@ -3,7 +3,8 @@
 ## Education
 
 1. Computer Engineering Year 2, NUS
-2. Meridian Junior College
+2. Standford University - NUS Overseas College
+3. Meridian Junior College
 
 ## Work Experience
 
